@@ -111,3 +111,5 @@ print(model2.summary())
 These lines print the summary statistics of the regression analysis for both "Sheet1" and "Sheet1 (2)." The summary includes coefficients, standard errors, t-statistics, p-values, and other relevant information about the regression models.
 
 These regression analyses aim to model the relationship between the independent variables and the dependent variable in the context of financial data. The summary provides insights into the significance and strength of these relationships.
+
+Last updated on: 2024-02-12
